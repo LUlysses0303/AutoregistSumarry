@@ -1,0 +1,2 @@
+# AutoregistSumarry
+NHO.S向け。退院サマリーから様式１登録作成支援ドキュメントを生成するRPA
